@@ -27,6 +27,7 @@ The main objective is to understand customer purchasing behavior, analyze sales 
 - Data Visualization
 
 ## Dashboard Features
+- ![Vrinda Store Sales Dashboard](Screenshot%202026-11-05%20111501.png) 
 
 - Interactive annual sales dashboard.
 - Monthly sales and order comparison.
